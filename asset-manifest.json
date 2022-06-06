@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crypto-price-tracker/static/css/main.bc3fb515.css",
-    "main.js": "/crypto-price-tracker/static/js/main.7dac3f1a.js",
+    "main.js": "/crypto-price-tracker/static/js/main.005ba9bf.js",
     "index.html": "/crypto-price-tracker/index.html",
     "main.bc3fb515.css.map": "/crypto-price-tracker/static/css/main.bc3fb515.css.map",
-    "main.7dac3f1a.js.map": "/crypto-price-tracker/static/js/main.7dac3f1a.js.map"
+    "main.005ba9bf.js.map": "/crypto-price-tracker/static/js/main.005ba9bf.js.map"
   },
   "entrypoints": [
     "static/css/main.bc3fb515.css",
-    "static/js/main.7dac3f1a.js"
+    "static/js/main.005ba9bf.js"
   ]
 }
